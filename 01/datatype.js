@@ -47,8 +47,8 @@ console.log(id === anotherId);
 
 // Array, Objects, Functions
 
-const heros = ["shaktiman", "naagraj", "doga"];
-let myObj = {
+const heros = ["shaktiman", "naagraj", "doga"];  //  non Primitive--->ref type
+let myObj = {                                    // obj
     name: "hitesh",
     age: 22,
 }
