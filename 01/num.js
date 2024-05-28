@@ -10,10 +10,10 @@ const balance = new Number(100)  //exclusively
 
 const otherNumber = 123.8966
 
- console.log(otherNumber.toPrecision(5));
+ //console.log(otherNumber.toPrecision(5));
 
 const hundreds = 1000000
- console.log(hundreds.toLocaleString('en-IN')); //comma used
+// console.log(hundreds.toLocaleString('en-IN')); //comma used
 
 // +++++++++++++ Maths +++++++++++++++++++++++++++++
 
