@@ -109,7 +109,7 @@ const {courseInstructor: instructor} = course
 // console.log(courseInstructor);
 console.log(instructor);
 
-// {
+// {                              // json js object notation e[onetypeog
 //     "name": "abc",
 //     "coursename": "js in git",
 //     "price": "free"
